@@ -1,5 +1,7 @@
 {
 	"devDependencies": {
-		"lerna": "^2.11.0"
+		"lerna": "^2.11.0",
+		"react": "^16.4.1",
+    	"react-dom": "^16.4.1"
 	}
 }
