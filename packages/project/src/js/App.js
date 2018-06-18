@@ -1,8 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import TextInput from "components/dist/TextInput";
 
 const App = () => {
-    return (<div>React time!</div>);
+    return (<div>React time!
+        <TextInput />
+    </div>);
 };
 
 export default App;
